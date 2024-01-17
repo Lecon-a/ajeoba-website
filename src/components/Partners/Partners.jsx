@@ -92,7 +92,7 @@ const useStyles = makeStyles((theme) => ({
   },
 
   slider: {
-    height: "17rem",
+    height: "15rem",
     margin: "auto",
     position: "relative",
     width: "100%",
@@ -100,10 +100,10 @@ const useStyles = makeStyles((theme) => ({
     placeItems: "center",
     overflow: "hidden",
     "@media(max-width: 768px)": {
-      height: "14rem",
+      height: "12rem",
     },
     "@media(max-width: 468px)": {
-      height: "10rem",
+      height: "8rem",
     },
   },
 
