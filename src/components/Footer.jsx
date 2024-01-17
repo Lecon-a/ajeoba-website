@@ -30,6 +30,7 @@ function Footer() {
             sx={{
               width: "25%",
               display: "flex",
+              textAlign: "left",
               flexDirection: "column",
               gap: ".5rem",
               // "@media(max-width: 768px)": {},
@@ -201,6 +202,7 @@ function Footer() {
                 fontSize: "1rem",
                 lineHeight: "1.7rem",
                 color: "black",
+                textAlign: "left",
                 fontFamily: "DM Sans",
 
                 "@media(max-width: 768px)": {
@@ -223,6 +225,7 @@ function Footer() {
                 fontSize: "1rem",
                 fontWeight: "400",
                 lineHeight: "2.01rem",
+                textAlign: "left",
                 margin: "1rem 0",
                 "@media(max-width: 768px)": {
                   fontSize: ".9rem",
@@ -272,6 +275,7 @@ function Footer() {
                 fontWeight: "700",
                 fontSize: "1rem",
                 lineHeight: "1.7rem",
+                textAlign: "left",
                 color: "black",
                 fontFamily: "DM Sans",
 
@@ -293,6 +297,7 @@ function Footer() {
                 fontFamily: "DM Sans",
                 lineHeight: "2.01rem",
                 color: "#575555",
+                textAlign: "left",
                 fontSize: "1rem",
                 fontWeight: "400",
                 margin: "1rem 0",
